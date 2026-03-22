@@ -1,0 +1,4 @@
+### GET request to test api-gateway
+GET http://localhost:4004/test
+
+###
