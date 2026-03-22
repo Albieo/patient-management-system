@@ -1,5 +1,3 @@
 # IntelliJ IDEA / WebStorm / PyCharm
 .idea/
 *.iml
-.idea/
-*.iml
